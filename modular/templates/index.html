@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1 id="text"></h1>
+</body>
+<script type="text/javascript" src="static/js/index.js"></script>
+<script>
+    let text = document.getElementById('text');
+    let msgPrms = getMessage();
+    msgPrms.then((message) => {
+        text.innerHTML = message;
+    }).catch((error) => {
+        console.log('[Error]msgPrms:', error);
+    });
+</script>
+</html>
