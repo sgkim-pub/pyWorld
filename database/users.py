@@ -13,7 +13,7 @@ rows = cursor.fetchall()
 for row in rows:
     print(row)
 
-SQL = "PRAGMA table_info(users)"
+SQL = 'PRAGMA table_info(users)'
 cursor.execute(SQL)
 rows = cursor.fetchall()
 for row in rows:
