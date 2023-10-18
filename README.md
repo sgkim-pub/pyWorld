@@ -6,8 +6,8 @@
 
 책의 2장 후반부의 'HTML, JavaScript' 예제 코드들은 아래 위치에서 찾으실 수 있습니다.
 
-[2장 후반부 HTML, JavaScript](https://github.com/sgkim-pub/html_js)
+[2장 후반부 - HTML, JavaScript](https://github.com/sgkim-pub/html_js)
 
 책의 3장, 4장에 해당하는 예제 코드들은 아래 위치에서 찾으실 수 있습니다.
 
-[3장, 4장 웹 프로그램 기본 기능 만들기, 중고 서적 거래 서비스 만들기](https://github.com/sgkim-pub/pyBook)
+[3장, 4장 - 웹 프로그램 기본 기능 만들기, 중고 서적 거래 서비스 만들기](https://github.com/sgkim-pub/pyBook)
